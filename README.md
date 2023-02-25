@@ -1,4 +1,4 @@
 # bookSearchEngine
 
 ## Description
-Deployed this on heroku, try 6
+Deployed this on book search engine to a live site via heroku.
